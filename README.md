@@ -1,6 +1,10 @@
 ## Hi there, I am [Ayu](https://ayusudi.com) 👋
 
-👩🏻‍💻 Fullstack Developer | Remote Worker<br>🥂 Active hackathon participant, collaborating on innovative tech projects<br>📷 Hobbies photography and explore LLM model integration enthusiast<br>📚 Worker-student in Information Systems at BINUS Online<br>👾 Coding with JavaScript, TypeScript, and Python
+👩🏻‍💻 Fullstack Developer | Remote Worker <br>
+🥂 Active hackathon participant, collaborating on innovative tech projects <br>
+📷 Passionate about photography and exploring LLM model integration <br>
+📚 Worker-student in Information Systems at BINUS Online <br>
+👾 Skilled in JavaScript, TypeScript, and Python 
 
 ## 🌐 Socials:
 
