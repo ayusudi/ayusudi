@@ -1,6 +1,6 @@
 ## Hi there, I am [Ayu](https://ayusudi.com) 👋
 
-👩🏻‍💻 Software Engineer at [Cekat.AI](https://www.cekat.ai/) <br>
+👩🏻‍💻 Software Engineer <br>
 🥂 Active hackathon participant, collaborating on innovative tech projects <br>
 📷 Passionate about photography and exploring LLM model integration <br>
 📚 Worker-student in Information Systems at BINUS Online <br>
